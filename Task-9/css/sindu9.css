@@ -1,0 +1,114 @@
+html body
+{padding:0;
+margin:0;
+overflow-x:hidden;
+font-family: 'Radley', serif;}
+a{text-decoration:none;}
+.top-header{background:#55415F;line-height:25px;margin-bottom:0;text-align:right;font-size:11px;}
+.top-header ul{padding:0;margin:0;}
+.top-header ul li{list-style:none;
+display:inline-block;
+padding:0;
+}
+.right-align{margin-right:20px;}
+.top-header ul a{color:#FDFFFF;}
+.navbar-header{margin-top:20px;margin-bottom:40px;}
+.navbar.navbar-default .navbar-brand {font-size:26px;color:#606060;}
+.navbar-brand .ftn12 {font-size:12px;color:#999999;line-height:47px;margin-left:2px;}
+.text-change{font-size:36px;color:#606060;}
+.navbar-right{margin-top:30px;border-bottom:1px solid #EBEBEB;margin-right:-57px;font-size:12px;}
+.navbar-default .navbar-right.navbar-nav>li>a { color: #333;padding:10px 7px;}
+.navbar-right li.active, .navbar-right li:hover{background:none;border-bottom:1px solid #55415F;color:#EBEBEB;} 
+.navbar-default .navbar-right.navbar-nav>li:hover>a, .navbar-right.navbar-nav li.active a { color: #55415F;}
+.navbar-default{background:#FFF;margin-bottom:0;}
+.img-rounded{background:#EBEBEB;min-height:425px;border-radius:0px;}
+.img1-change1{margin-top:20px;margin-left:66px;}
+.content{background:#EBEBEB;min-height:420px;border-radius:0px;}
+.padding-change{padding-right:0px;}
+.padding1-change{padding-left:0px;height:420px;}
+.content h1{margin-top:0;padding:123px 59px 5px 44px;font-family:serif;color:#333333;margin-left:29px;}
+.content p{line-height:20px;margin-left:73px;margin-top:16px;color:#999999;}
+.btn-change{width:130px;background:#55415F;color:#FFFFFF;border-color:#55415F;border-radius:4px;padding:7px 12px;}
+.carousel {
+    margin-bottom: 0;
+	padding: 0 40px 30px 40px;
+	background:#FFF;
+	
+}
+/* Reposition the controls slightly */
+.carousel-control {
+	top: -64px;}
+.carousel-control.left
+{
+	background:#FFF;
+	width:5%;
+	margin-left:-47px;
+	top:0;
+	border-radius:10px 0px 0px 0px;	
+	opacity:1;
+	padding-top:13px;
+	
+	}
+.carousel-control.right {
+	top: -64px;
+	background:#FFF;
+	width:5%;
+	margin-right:-47px;
+	top:0;
+	border-radius:0px 10px 0px 0px;
+	opacity:1;
+	padding-top:13px;
+	}
+/* Changes the position of the indicators */
+.carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom:0px;
+	margin-right:-19px;
+}
+/* Changes the colour of the indicators */
+.carousel-indicators li {
+	background: #FFFF;
+}
+.carousel-indicators .active {
+background:#FFFF;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover { background:none; }
+.top-change{margin-top:-83px;}
+.well-change{padding:0;border:0;margin-top:20px;}
+.slide-change{padding:30px;}
+.heading-change{text-align:center;margin-top:-25px;color:#55415F;}
+.change-color{color:#807D77;}
+.gap-change h3{margin-top:0px;font-family:Serif;line-height:25px;color:#757575;}
+.para-change{margin-bottom:50px;}
+.left1-change{margin-left:15%;margin-bottom:20px;}
+.small-img{min-height:150px;background:#353535;margin-bottom:25px;}
+.change2-color{color:#807D77;}
+.h4-change{font-family:Serif;color:#7F7D77;}
+.btn{padding:0px;margin-bottom:30px;color:#55415F;}
+.img1{min-height:300px;background:#222222;}
+.pad-change{padding:0px;}
+.color-change{color:#9F81A9;}
+.color-change1{color:#9F80A9;line-height:28px;}
+.color-change3{color:#807D77;}
+.color-change-4{color:#807D77;}
+.form-group{margin-top:28px;}
+.form-group1{margin-top:15px;}
+.margin-change{margin-top:30px;color:#FFFFFF;}
+.back-change{background:#333333;border:#333333;color:#807D77;}
+.width-change{padding:5px 16px;color:#FFFFFF;background:#9F81A9;border:#CC66FF;border-radius:6px;margin-top:15px;}
+.btn1-change{padding:11px;border-radius:19px;color:#807D77;background:#353535;font-size:13px;margin-left:4px;}
+.footer ul {padding:0;margin:0;}
+.footer ul li{list-style:none;
+display:inline-block;
+margin-left:6%;
+padding:15px;}
+.footer ul{background:#202020;border:1px solid#333333;min-height:50px;margin-bottom:0;color:#807D77;}
+.right-change{float:right;margin-right:8%;}
+
+
+
+
+
+
